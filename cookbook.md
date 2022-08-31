@@ -10,8 +10,8 @@ Before running, be sure to do the following steps:
 ```
 $ source /opt/ros/indigo/setup.bash
 $ cd your_catkin_ws
-$ git clone https://github.com/hansonrobotics/pau2motors.git
-$ git clone https://github.com/hansonrobotics/blender_api_msgs.git
+$ git clone https://github.com/opencog/pau2motors.git
+$ git clone https://github.com/opencog/blender_api_msgs.git
 $ pip3 install ./blender_api_msgs
 $ catkin_make
 $ source devel/setup.bash
